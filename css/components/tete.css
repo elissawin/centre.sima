@@ -1,0 +1,34 @@
+.tete{
+	background-image: linear-gradient(60deg, rgba(250, 250, 250, 1) 80%, rgba(255, 255, 255, 0.7)  20%), url(../../images/bln.jpg);
+	height: 55px;
+	display: flex;
+	justify-content: left;
+	margin-top: 0;
+	border-radius: 4px;
+
+	
+
+}
+
+.tete h1{
+	font-family: 'Great Vibes', cursive;
+    font-size: 50px;
+    font-weight: 550;
+    color: #5bb0ff;
+    justify-content: flex-start;
+    margin-top: 0px;
+
+}
+
+ .tete img{
+ 	margin: 0px 20px;
+ 	width: 200px;
+ 	height:150px;
+ 	border-radius: 10px;
+ 	margin-top: -15px;
+ }
+
+ .tete container {
+ justify-content: safe start;
+ }
+

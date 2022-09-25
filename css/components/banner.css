@@ -1,0 +1,39 @@
+.banner {
+	background-image: linear-gradient(255deg, rgba(240, 240, 240, 0.8) 0%, rgba(0, 0, 0, 0.3)  60%), url(../../images/fond1.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+	padding-top: 1px ;
+	height: 300px;
+
+}
+
+.banner h1 {
+	display: 	flex;
+	flex-wrap: 	wrap	;
+	font-size: 60px;
+	margin-top: 	30px;
+	opacity: 0.8;
+	padding-top: 0px;
+	padding: 65px;
+	text-align: center	;
+	opacity: 0.8;
+	font-style: italic;
+	color: 	rgba(	245, 245, 245, 1.0);
+
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin: 40px;
+	flex-grow: 1;
+	width: 400px;
+}
+.banner .container {
+	width: 1000px;
+	margin: 0 auto;
+
+
+}

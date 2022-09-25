@@ -1,0 +1,20 @@
+.btn-go{
+
+   	background-color: #5bb0ff;
+    height: auto;
+    MARGIN: auto;
+    margin-top: 10px;
+    width: 80px;
+    border-radius: 7px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    flex-grow:1 ;
+    justify-content: center;
+    padding: 10px;
+    border-width: 0;
+
+    
+
+}
